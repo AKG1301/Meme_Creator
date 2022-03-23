@@ -31,3 +31,7 @@ d) Then select "Create Meme". <br />
 e) Then save the image or meme to your computer.<br />
 
 The Meme will be downloaded in its original size and quality by the App.
+
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/52539720/159711590-dfccbf27-ed4c-45e6-a32e-c6d84538f199.png)
