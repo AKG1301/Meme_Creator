@@ -17,11 +17,11 @@ With `npm start` you can start the development server and look at the app at htt
 
 ## Description
 
-To use this app, follow these steps:
-a) First, in the "Top Text" area, type the text that shows on top of the image.
-b) Then, in the "Bottom Text" section, type the text that shows at the bottom of the image.
-c) Choose the Meme you would like to have
-d) Then select "Create Meme".
-e) Then save the image or meme to your computer.
+To use this app, follow these steps:<br />
+a) First, in the "Top Text" area, type the text that shows on top of the image.<br />
+b) Then, in the "Bottom Text" section, type the text that shows at the bottom of the image.<br />
+c) Choose the Meme you would like to have. <br />
+d) Then select "Create Meme". <br />
+e) Then save the image or meme to your computer.<br />
 
 The Meme will be downloaded in its original size and quality by the App.
