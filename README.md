@@ -15,9 +15,15 @@ npm install
 
 With `npm start` you can start the development server and look at the app at http://localhost:3000.
 
+## Languages Used
+
+a) HTML<br />
+b) CSS<br />
+c) Javascript (React)<br />
+
 ## Description
 
-To use this app, follow these steps:<br />
+To use this app, follow these steps:<br /> <br />
 a) First, in the "Top Text" area, type the text that shows on top of the image.<br />
 b) Then, in the "Bottom Text" section, type the text that shows at the bottom of the image.<br />
 c) Choose the Meme you would like to have. <br />
