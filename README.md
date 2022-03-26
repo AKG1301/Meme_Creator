@@ -36,6 +36,16 @@ The Meme will be downloaded in its original size and quality by the App.
 
 ![image](https://user-images.githubusercontent.com/52539720/159711590-dfccbf27-ed4c-45e6-a32e-c6d84538f199.png)
 
+# npm run build
+Builds the app for production to the build folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.
+Your app is ready to be deployed!
+
+See the section about deployment for more information.
+
+
 # Learn More
 You can learn more in the Create React App documentation.
 
